@@ -9,6 +9,7 @@ We have created a Web Scraping Website which scrapes text contents for an entere
 - [Usage](#usage)
   - [Installation](#installation)
   - [Navigation](#navigation)
+- [Demo](#demo)
 - [Team](#team)
   - [Mentors:](#mentors)
   - [Members:](#members)
@@ -51,6 +52,10 @@ We have successfully completed all the three objectives
    2. Press the Enter button on your keyboard.
    3. You will then be redirected to the results page where the scraped data result will be displayed.
 </details>
+
+## Demo
+
+![header](d.mp4)
 
 ## Team
 
